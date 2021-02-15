@@ -1,0 +1,20 @@
+body {
+  font-family: "Baloo Thambi 2", cursive;
+}
+
+.stats{
+  width: 100%;
+  background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)) ,url('../img/bg.jpg');
+  background-size: cover;
+}
+h1{
+  color: cornsilk;
+}
+#footerlast {
+ 
+  bottom: 3%;
+  text-align: center;
+  justify-content: center;
+  left: 45%;
+  color: #d3e0ea
+}
